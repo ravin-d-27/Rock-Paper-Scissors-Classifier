@@ -17,7 +17,7 @@
   <p>To get started with the Rock-Paper-Scissors Classifier, follow these steps:</p>
   <ol>
     <li>Clone this GitHub repository to your local machine or download and extract the ZIP file.</li>
-    <code>git clone https://github.com/your-username/rock-paper-scissors-classifier.git</code>
+    <code>git clone https://github.com/ravin-d-27/rock-paper-scissors-classifier.git</code>
     <li>Navigate to the project directory.</li>
     <code>cd rock-paper-scissors-classifier</code>
   </ol>
